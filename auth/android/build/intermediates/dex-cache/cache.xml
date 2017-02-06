@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\Machine\Machine Learning\ReactNative\auth\android\app\build\intermediates\exploded-aar\com.facebook.soloader\soloader\0.1.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="8f615bca00639150c9eb6175d4b5471193f70794">
+        <dex dex="C:\Users\Machine\Machine Learning\ReactNative\auth\android\app\build\intermediates\pre-dexed\debug\classes-0d689b24d959a94ec6e0df107c5066e69400833f.jar" />
+    </item>
+    <item
+        jar="C:\Users\Machine\Machine Learning\ReactNative\auth\android\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.0.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="d86429b0f0b3f3cafbeb78dda1b9d89119ccb05d">
+        <dex dex="C:\Users\Machine\Machine Learning\ReactNative\auth\android\app\build\intermediates\pre-dexed\debug\classes-5c696b4bd9289d310f0f1243e0e7a1d66eb59882.jar" />
+    </item>
+    <item
+        jar="C:\Users\Machine\Machine Learning\ReactNative\auth\android\app\build\intermediates\exploded-aar\com.facebook.fresco\fresco\0.11.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="d31aadf33187c37a7cd63dc1b769f8c6e33f78c3">
+        <dex dex="C:\Users\Machine\Machine Learning\ReactNative\auth\android\app\build\intermediates\pre-dexed\debug\classes-a7b5ad5424249bcfaa741170d7a8d71a737a3bda.jar" />
+    </item>
+    <item
+        jar="C:\Users\Machine\.gradle\caches\modules-2\files-2.1\com.google.code.findbugs\jsr305\3.0.0\5871fb60dc68d67da54a663c3fd636a10a532948\jsr305-3.0.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="5871fb60dc68d67da54a663c3fd636a10a532948">
+        <dex dex="C:\Users\Machine\Machine Learning\ReactNative\auth\android\app\build\intermediates\pre-dexed\debug\jsr305-3.0.0-801f932340618af9d5938ccd984029e5ddd0e870.jar" />
+    </item>
+    <item
+        jar="C:\Users\Machine\Machine Learning\ReactNative\auth\android\app\build\intermediates\exploded-aar\com.facebook.fresco\drawee\0.11.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="1137942adeb03984c1311b662363dd38fc238fd3">
+        <dex dex="C:\Users\Machine\Machine Learning\ReactNative\auth\android\app\build\intermediates\pre-dexed\debug\classes-c8ceb80e47eb3eaeae79695537934a9f697c1c70.jar" />
+    </item>
+    <item
+        jar="C:\Users\Machine\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp3\okhttp\3.4.1\c7c4f9e35c2fd5900da24f9872e3971801f08ce0\okhttp-3.4.1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="c7c4f9e35c2fd5900da24f9872e3971801f08ce0">
+        <dex dex="C:\Users\Machine\Machine Learning\ReactNative\auth\android\app\build\intermediates\pre-dexed\debug\okhttp-3.4.1-300a8f45487c5c20e815d321fb8078f174908267.jar" />
+    </item>
+    <item
+        jar="C:\Users\Machine\Machine Learning\ReactNative\auth\android\app\build\intermediates\exploded-aar\com.facebook.react\react-native\0.40.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="2d74afead061bfd6dda3c18734ebcf3fe0d84a7c">
+        <dex dex="C:\Users\Machine\Machine Learning\ReactNative\auth\android\app\build\intermediates\pre-dexed\debug\classes-7d76e74fa0d2f61f031615d4961fb9957ecaba1b.jar" />
+    </item>
+    <item
+        jar="C:\Users\Machine\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\23.2.1\support-annotations-23.2.1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="ccb693bc0774fcb637246f7360de25b4af7df318">
+        <dex dex="C:\Users\Machine\Machine Learning\ReactNative\auth\android\app\build\intermediates\pre-dexed\debug\support-annotations-23.2.1-ffec05b0b05f7b261a923119f8de40784ee268ed.jar" />
+    </item>
+    <item
+        jar="C:\Users\Machine\Machine Learning\ReactNative\auth\android\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.2.1\jars\libs\internal_impl-23.2.1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="607a3d0b8013b4ccbfeb0b7cb293351994e021fb">
+        <dex dex="C:\Users\Machine\Machine Learning\ReactNative\auth\android\app\build\intermediates\pre-dexed\debug\internal_impl-23.2.1-f53c96cbf30a036a9641a1d5433dea32e72cd54f.jar" />
+    </item>
+    <item
+        jar="C:\Users\Machine\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp3\okhttp-ws\3.4.1\8ace66ef7002d98f633377c9e67daeeb196d8c3b\okhttp-ws-3.4.1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="8ace66ef7002d98f633377c9e67daeeb196d8c3b">
+        <dex dex="C:\Users\Machine\Machine Learning\ReactNative\auth\android\app\build\intermediates\pre-dexed\debug\okhttp-ws-3.4.1-ae016cc6eb3ba4120a6ccaeb7e5811867c9e2c6c.jar" />
+    </item>
+    <item
+        jar="C:\Users\Machine\.gradle\caches\modules-2\files-2.1\com.squareup.okio\okio\1.9.0\f824591a0016efbaeddb8300bee54832a1398cfa\okio-1.9.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="f824591a0016efbaeddb8300bee54832a1398cfa">
+        <dex dex="C:\Users\Machine\Machine Learning\ReactNative\auth\android\app\build\intermediates\pre-dexed\debug\okio-1.9.0-b1cdf5d6527d00a1c2c7af0f38f749c421a5f5b3.jar" />
+    </item>
+    <item
+        jar="C:\Users\Machine\Machine Learning\ReactNative\auth\android\app\build\intermediates\exploded-aar\com.facebook.fresco\fbcore\0.11.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="98786c1770b531b9194fb6448b2a2692c64074b6">
+        <dex dex="C:\Users\Machine\Machine Learning\ReactNative\auth\android\app\build\intermediates\pre-dexed\debug\classes-fe6b120996c825b93cc4ad50d1b31815f7e6583b.jar" />
+    </item>
+    <item
+        jar="C:\Users\Machine\Machine Learning\ReactNative\auth\android\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\23.0.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="4356e230a981d1bbf047d848b91bc0d9b7c5bacc">
+        <dex dex="C:\Users\Machine\Machine Learning\ReactNative\auth\android\app\build\intermediates\pre-dexed\debug\classes-9e4f5e55d81ddff642b09fe3e4067f0d19ab1c98.jar" />
+    </item>
+    <item
+        jar="C:\Users\Machine\.gradle\caches\modules-2\files-2.1\com.parse.bolts\bolts-tasks\1.4.0\d85884acf6810a3bbbecb587f239005cbc846dc4\bolts-tasks-1.4.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="d85884acf6810a3bbbecb587f239005cbc846dc4">
+        <dex dex="C:\Users\Machine\Machine Learning\ReactNative\auth\android\app\build\intermediates\pre-dexed\debug\bolts-tasks-1.4.0-3d5199dbccbce8711ff9e44c690ffa95ad4c0b5a.jar" />
+    </item>
+    <item
+        jar="C:\Users\Machine\Machine Learning\ReactNative\auth\android\app\build\intermediates\exploded-aar\com.facebook.fresco\imagepipeline-okhttp3\0.11.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="2b8a01ad9da5d26d0067894c22e87597bca2c500">
+        <dex dex="C:\Users\Machine\Machine Learning\ReactNative\auth\android\app\build\intermediates\pre-dexed\debug\classes-b956f82fa4b65e6757f27ccaad099321b6d1e65b.jar" />
+    </item>
+    <item
+        jar="C:\Users\Machine\Machine Learning\ReactNative\auth\android\app\build\intermediates\exploded-aar\com.facebook.fresco\imagepipeline-base\0.11.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="ca63c521b5745ae9a09629d7ca67ff6bc2a967fe">
+        <dex dex="C:\Users\Machine\Machine Learning\ReactNative\auth\android\app\build\intermediates\pre-dexed\debug\classes-10281938a516d09766038b4351f53ee4de6125a8.jar" />
+    </item>
+    <item
+        jar="C:\Users\Machine\.gradle\caches\modules-2\files-2.1\com.nineoldandroids\library\2.4.0\e9b63380f3a242dbdbf103a2355ad7e43bad17cb\library-2.4.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="e9b63380f3a242dbdbf103a2355ad7e43bad17cb">
+        <dex dex="C:\Users\Machine\Machine Learning\ReactNative\auth\android\app\build\intermediates\pre-dexed\debug\library-2.4.0-4c1062c02bb6228f6e67762985812a77d5650323.jar" />
+    </item>
+    <item
+        jar="C:\Users\Machine\Machine Learning\ReactNative\auth\android\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.2.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="3be474b1b21b31cf2fa93fe6bd641ae108d96452">
+        <dex dex="C:\Users\Machine\Machine Learning\ReactNative\auth\android\app\build\intermediates\pre-dexed\debug\classes-b8bf07b683f924a0aa6c8eecfa6f7c54aaf14988.jar" />
+    </item>
+    <item
+        jar="C:\Users\Machine\.gradle\caches\modules-2\files-2.1\javax.inject\javax.inject\1\6975da39a7040257bd51d21a231b76c915872d38\javax.inject-1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="6975da39a7040257bd51d21a231b76c915872d38">
+        <dex dex="C:\Users\Machine\Machine Learning\ReactNative\auth\android\app\build\intermediates\pre-dexed\debug\javax.inject-1-b6bb46cc91377a34597fb8f01bdfe58997c860e1.jar" />
+    </item>
+    <item
+        jar="C:\Users\Machine\Machine Learning\ReactNative\auth\android\app\build\intermediates\exploded-aar\com.facebook.fresco\imagepipeline\0.11.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="3341b66c54367e777a0647e2db96c045329bfeab">
+        <dex dex="C:\Users\Machine\Machine Learning\ReactNative\auth\android\app\build\intermediates\pre-dexed\debug\classes-f6094fa51de77939d384d5c259afbd1573b2deac.jar" />
+    </item>
+    <item
+        jar="C:\Users\Machine\Machine Learning\ReactNative\auth\android\app\build\intermediates\exploded-aar\com.facebook.react\react-native\0.40.0\jars\libs\infer-annotations-1.5.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="dcac634e137395f79693ec760f081a86eb2bd84e">
+        <dex dex="C:\Users\Machine\Machine Learning\ReactNative\auth\android\app\build\intermediates\pre-dexed\debug\infer-annotations-1.5-193d5b02833e366c954373fecb949f9f75f883c7.jar" />
+    </item>
+    <item
+        jar="C:\Users\Machine\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp3\okhttp-urlconnection\3.4.1\63994437f62bc861bc20c605d12962f7246116d1\okhttp-urlconnection-3.4.1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="63994437f62bc861bc20c605d12962f7246116d1">
+        <dex dex="C:\Users\Machine\Machine Learning\ReactNative\auth\android\app\build\intermediates\pre-dexed\debug\okhttp-urlconnection-3.4.1-b9ba591de99632f0e9d0318d997cc69e5c173da9.jar" />
+    </item>
+
+</items>
